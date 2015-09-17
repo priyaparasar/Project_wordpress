@@ -1,0 +1,9 @@
+/*WooProjects*/
+.projects-page .content-area{margin-bottom:20px;}
+.single-project .project .single-project-short-description{margin-top:1.618em;}
+.single-project .project .summary .project-meta ul{margin-left:0;}
+div.project-meta{border-left:solid 1px #ddd;padding-left:15px;}
+.project-meta,.project-meta h3{font-size:13px;}
+.project-meta h3{margin-bottom:5px;}
+.projects ul.projects li.project img, .projects-page ul.projects li.project img{margin:0;}
+.projects ul.projects li.project img, .projects-page ul.projects li.project img{width: 100%;}
